@@ -70,10 +70,10 @@ public class controllerAluno {
         alunosMap.put(aluno5.getId(), aluno5);
         alunosMap.put(aluno6.getId(), aluno6);
 
-        System.out.println("\n\n");
+        System.out.println("\n\n Imprimindo o map de alunos");
         System.out.println(alunosMap);
-        System.out.println("\n\n");
-        System.out.println(alunosMap.get(aluno5));
+        System.out.println("\n\nImprimindo o aluno de id 5 do map de alunos");
+        System.out.println(alunosMap.get(aluno5.getId()));
 
 
 
