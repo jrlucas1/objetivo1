@@ -72,7 +72,7 @@ public class controllerAluno {
 
         System.out.println("\n\n Imprimindo o map de alunos");
         System.out.println(alunosMap);
-        System.out.println("\n\nImprimindo o aluno de id 5 do map de alunos");
+        System.out.println("\n\nImprimindo o aluno de id 5 do map de alunos ");
         System.out.println(alunosMap.get(aluno5.getId()));
 
 
